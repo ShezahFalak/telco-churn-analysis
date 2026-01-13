@@ -28,8 +28,7 @@
     
 ## Dashboard Preview
 ![Dashboard Overview](images/excel_dashboard.png)
-
-
+![KPI](images/kpi.png)
 
 ## Churn Analysis
 ### Churn by Contract Type
@@ -46,7 +45,6 @@
 - Customer churn is most pronounced within the first 6 months of tenure, highlighting early lifecycle risk.
 - Revenue-at-risk analysis shows that early-tenure churn accounts for the largest CLTV loss.
 - Longer contract durations are associated with lower churn rates and reduced revenue loss.
-
 
 ## Repository Contents
 - `churn_analysis.sql` – SQL queries used for analysis
