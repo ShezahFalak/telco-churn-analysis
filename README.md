@@ -20,10 +20,14 @@
   - CTEs
   - CASE statements
   - Aggregations (COUNT, SUM, AVG)
+    
 - **Microsoft Excel**
   - KPI tracking
   - Executive dashboard
   - Data visualization
+    
+## Dashboard Preview
+![Dashboard Overview](images/dashboard.png)
 
 ## Key Insights
 - Month-to-month customers have the highest churn rate
