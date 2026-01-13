@@ -8,6 +8,7 @@
 ## Dataset
 - IBM Telco Customer Churn dataset (Kaggle)
 - Includes customer tenure, contract type, churn status, and estimated CLTV
+- Note: The dataset was loaded into a local MySQL database for analysis; raw data files are not stored in this repository.
 
 ## Objectives
 - Measure overall customer churn
