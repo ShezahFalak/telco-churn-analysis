@@ -29,11 +29,24 @@
 ## Dashboard Preview
 ![Dashboard Overview](images/excel_dashboard.png)
 
+
+
+## Churn Analysis
+### Churn by Contract Type
+![Churn by Contract](images/contract.png)
+
+### Churn by Tenure
+![Churn by Tenure](images/tenure_bucket.png)
+
+## Revenue at Risk
+![Revenue at Risk](images/Revenue_risk.png)
+
 ## Key Insights
-- Month-to-month customers have the highest churn rate
-- Churn is highest within the first 6 months of tenure
-- Early-tenure churn contributes the largest CLTV loss
-- Longer contracts significantly reduce churn and revenue loss
+- Month-to-month customers experience the highest churn rate compared to longer contract types.
+- Customer churn is most pronounced within the first 6 months of tenure, highlighting early lifecycle risk.
+- Revenue-at-risk analysis shows that early-tenure churn accounts for the largest CLTV loss.
+- Longer contract durations are associated with lower churn rates and reduced revenue loss.
+
 
 ## Repository Contents
 - `churn_analysis.sql` – SQL queries used for analysis
