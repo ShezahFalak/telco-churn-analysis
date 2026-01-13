@@ -27,7 +27,7 @@
   - Data visualization
     
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](images/excel_dashboard.png)
 
 ## Key Insights
 - Month-to-month customers have the highest churn rate
